@@ -1,0 +1,16 @@
+Age,Vehicle_Age,Annual_Premium,Claim_Amount,Fraud,Gender,Vehicle_Type
+25,3,4500,20000,0,Male,Car
+32,5,6000,50000,1,Female,Bike
+45,10,7000,120000,0,Male,Truck
+29,2,5200,30000,0,Female,Car
+38,7,6800,80000,1,Male,Truck
+50,12,7500,150000,0,Male,Car
+27,4,4800,25000,0,Female,Bike
+34,6,6200,60000,1,Male,Car
+41,9,7100,90000,0,Female,Truck
+23,1,4000,15000,0,Male,Bike
+36,8,6700,70000,1,Female,Car
+48,11,7300,140000,0,Male,Truck
+30,3,5000,35000,0,Female,Car
+39,7,6900,85000,1,Male,Bike
+28,2,4700,22000,0,Female,Car
